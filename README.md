@@ -7,7 +7,7 @@ openvpn认证脚本
 再将编译好的文件放到/etc/openvpn【根据自己实际情况放】
 
 ##  gin-dingding ##
-钉钉报警使用
+钉钉报警使用，需要替换源码中的webHook和keyword
 
 ## server-go.conf ##
 openvpn配置文件
