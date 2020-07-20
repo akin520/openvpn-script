@@ -4,6 +4,8 @@ openvpn认证脚本
 ### 安装
     make
 
+再将编译好的文件放到/etc/openvpn【根据自己实际情况放】
+
 ##  gin-dingding ##
 钉钉报警使用
 

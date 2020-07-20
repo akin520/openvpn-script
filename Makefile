@@ -1,7 +1,4 @@
-install:
-	echo install golang
-
-build: install
+build:
 	go build -o checkpwd checkpwd.go
 	go build -o gin-dingding gin-dingding.go
 	go build -o vpn-connect vpn-connect.go
